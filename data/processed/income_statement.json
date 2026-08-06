@@ -1,0 +1,147 @@
+{
+  "2008": {
+    "interest_income": 439491000,
+    "interest_expense": 70896000,
+    "net_interest_income": 368595000,
+    "non_interest_income": 152365000,
+    "non_interest_expense": 312887000,
+    "net_income": 74286000,
+    "earnings_per_share": 2.16
+  },
+  "2009": {
+    "interest_income": 431226000,
+    "interest_expense": 49076000,
+    "net_interest_income": 382150000,
+    "non_interest_income": 97743000,
+    "non_interest_expense": 343866000,
+    "net_income": 48010000,
+    "earnings_per_share": 0.66
+  },
+  "2010": {
+    "interest_income": 118709000,
+    "interest_expense": 14191000,
+    "net_interest_income": 104518000,
+    "non_interest_income": 71864000,
+    "non_interest_expense": 115891000,
+    "income_before_tax": 198219000,
+    "net_income": 94951000,
+    "earnings_per_share": 0.41
+  },
+  "2011": {
+    "interest_income": 147802000,
+    "interest_expense": 7732000,
+    "net_interest_income": 140070000,
+    "non_interest_income": 73059000,
+    "non_interest_expense": 134710000,
+    "income_before_tax": 401880000,
+    "net_income": 171902000,
+    "earnings_per_share": 0.81
+  },
+  "2012": {
+    "interest_income": 168168000,
+    "interest_expense": 7605000,
+    "net_interest_income": 160563000,
+    "non_interest_income": 126688000,
+    "non_interest_expense": 143049000,
+    "income_before_tax": 363082000,
+    "earnings_per_share": 1.12
+  },
+  "2013": {
+    "interest_income": 195384000,
+    "interest_expense": 8386000,
+    "net_interest_income": 186998000,
+    "non_interest_income": 238713000,
+    "non_interest_expense": 168850000,
+    "income_before_tax": 691613000,
+    "earnings_per_share": 1.27
+  },
+  "2014": {
+    "interest_income": 243725000,
+    "interest_expense": 8988000,
+    "net_interest_income": 234737000,
+    "non_interest_income": 167637000,
+    "non_interest_expense": 186067000,
+    "income_before_tax": 662168000,
+    "earnings_per_share": 1.13
+  },
+  "2015": {
+    "interest_income": 279232000,
+    "interest_expense": 10163000,
+    "net_interest_income": 269069000,
+    "non_interest_income": 114506000,
+    "non_interest_expense": 208608000,
+    "income_before_tax": 603574000,
+    "earnings_per_share": 1.68
+  },
+  "2016": {
+    "interest_income": 307333000,
+    "interest_expense": 10728000,
+    "net_interest_income": 296605000,
+    "provision_for_credit_losses": 106679000,
+    "non_interest_income": 113502000,
+    "non_interest_expense": 235186000,
+    "income_before_tax": 640599000,
+    "earnings_per_share": 1.89
+  },
+  "2017": {
+    "interest_income": 405016000,
+    "interest_expense": 11310000,
+    "net_interest_income": 393706000,
+    "provision_for_credit_losses": 92304000,
+    "non_interest_income": 152266000,
+    "non_interest_expense": 264015000,
+    "income_before_tax": 874641000,
+    "earnings_per_share": 2.19
+  },
+  "2018": {
+    "interest_income": 542897000,
+    "interest_expense": 28437000,
+    "net_interest_income": 514460000,
+    "provision_for_credit_losses": 87870000,
+    "non_interest_income": 186707000,
+    "non_interest_expense": 307592000,
+    "income_before_tax": 1362909000,
+    "earnings_per_share": 4.96
+  },
+  "2019": {
+    "interest_income": 588735000,
+    "interest_expense": 55067000,
+    "net_interest_income": 533668000,
+    "provision_for_credit_losses": 107000000,
+    "non_interest_income": 313344000,
+    "non_interest_expense": 460752000,
+    "income_before_tax": 1610000000,
+    "earnings_per_share": 5.06
+  },
+  "2020": {
+    "interest_income": 607558000,
+    "interest_expense": 16078000,
+    "net_interest_income": 591480000,
+    "provision_for_credit_losses": 220000000,
+    "non_interest_income": 621783000,
+    "non_interest_expense": 664799000,
+    "income_before_tax": 1742000000,
+    "earnings_per_share": 7.4
+  },
+  "2021": {
+    "interest_income": 3289000000,
+    "interest_expense": 110000000,
+    "net_interest_income": 3179000000,
+    "provision_for_credit_losses": 123000000,
+    "non_interest_income": 2738000000,
+    "non_interest_expense": 3070000000,
+    "income_before_tax": 2724000000,
+    "earnings_per_share": 31.25
+    
+  },
+  "2022": {
+    "interest_income": 5673000000,
+    "interest_expense": 1188000000,
+    "net_interest_income": 4485000000,
+    "provision_for_credit_losses": 420000000,
+    "non_interest_income": 1728000000,
+    "non_interest_expense": 3621000000,
+    "income_before_tax": 2172000000,
+    "earnings_per_share": 25.35
+  }
+}

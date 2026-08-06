@@ -1,0 +1,88 @@
+{
+  "2008": {
+    "net_cash_from_operating_activities": 127045000,
+    "net_cash_from_investing_activities": -1557513000,
+    "net_cash_from_financing_activities": 3184019000
+  },
+  "2009": {
+    "net_cash_from_operating_activities": 86963000,
+    "net_cash_from_investing_activities": -1857466000,
+    "net_cash_from_financing_activities": 2846631000
+  },
+  "2010": {
+    "net_cash_from_operating_activities": 163228000,
+    "net_cash_from_investing_activities": -5052707000,
+    "net_cash_from_financing_activities": 4453058000
+  },
+  "2011": {
+    "net_cash_from_operating_activities": 166392000,
+    "net_cash_from_investing_activities": -4038956000,
+    "net_cash_from_financing_activities": 1911080000
+  },
+  "2012": {
+    "net_cash_from_operating_activities": 196108000,
+    "net_cash_from_investing_activities": -2886368000,
+    "net_cash_from_financing_activities": 2584295000
+  },
+  "2013": {
+    "net_cash_from_operating_activities": 171778000,
+    "net_cash_from_investing_activities": -2838988000,
+    "net_cash_from_financing_activities": 3197006000
+  },
+  "2014": {
+    "net_cash_from_operating_activities": 255268000,
+    "net_cash_from_investing_activities": -12233682000,
+    "net_cash_from_financing_activities": 12250649000
+  },
+  "2015": {
+    "net_cash_from_operating_activities": 339197000,
+    "net_cash_from_investing_activities": -6495736000,
+    "net_cash_from_financing_activities": 5848782000
+  },
+  "2016": {
+    "net_cash_from_operating_activities": 471760000,
+    "net_cash_from_investing_activities": 981561000,
+    "net_cash_from_financing_activities": -410828000
+  },
+  "2017": {
+    "net_cash_from_operating_activities": 646865000,
+    "net_cash_from_investing_activities": -5970496000,
+    "net_cash_from_financing_activities": 5700956000,
+    "cash_end_of_year": 2923075000
+  },
+  "2018": {
+    "net_cash_from_operating_activities": 933562000,
+    "net_cash_from_investing_activities": -4800375000,
+    "net_cash_from_financing_activities": 4515277000,
+    "net_change_in_cash": 648464000,
+    "cash_end_of_year": 3572000000
+  },
+  "2019": {
+    "net_cash_from_operating_activities": 1164000000,
+    "net_cash_from_investing_activities": -9372000000,
+    "net_cash_from_financing_activities": 11418000000,
+    "net_change_in_cash": 3210000000,
+    "cash_end_of_year": 6760000000
+  },
+  "2020": {
+    "net_cash_from_operating_activities": 1412000000,
+    "net_cash_from_investing_activities": -31206000000,
+    "net_cash_from_financing_activities": 40656000000,
+    "net_change_in_cash": 10862000000,
+    "cash_end_of_year": 17622000000
+  },
+  "2021": {
+    "net_cash_from_operating_activities": 1868000000,
+    "net_cash_from_investing_activities": -90336000000,
+    "net_cash_from_financing_activities": 85432000000,
+    "net_change_in_cash": -3036000000,
+    "cash_end_of_year": 14586000000
+  },
+  "2022": {
+    "net_cash_from_operating_activities": 2864000000,
+    "net_cash_from_investing_activities": -3638000000,
+    "net_cash_from_financing_activities": -9000000,
+    "net_change_in_cash": -783000000,
+    "cash_end_of_year": 13803000000
+  }
+}
